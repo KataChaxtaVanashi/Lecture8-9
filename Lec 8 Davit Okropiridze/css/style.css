@@ -1,0 +1,103 @@
+.topnav {
+	max-width: 1361px;
+	width: 100%;
+	margin: 25px auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.navi {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+li {
+	margin-right: 49px;
+	font-size: 20px;
+}
+.sec1 {
+	background-image: url("https://wallpaperaccess.com/full/219778.jpg");
+	opacity: 0.8;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-size: cover;
+	background-position: center;
+	max-width: 1361px;
+	width: 100%;
+	height: 651px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.tit1e{
+	height: 109px;
+}
+h1{
+	font-size: 78px;
+	color: #8d8d8d;
+	margin-bottom: 40px;
+}
+h2{
+	font-size: 18px;
+	color: #8d8d8d;
+	font-weight: bold;
+	text-align: center;
+}
+.sec2{
+	display: flex;
+	margin: 0 auto;
+	max-width: 1361px;
+	width: 100%;
+	height: 800px;
+	padding: 74px 96px;
+}
+.discover{
+	max-width: 209px;
+	width: 100%;
+	height: 203px;
+	margin-right: 92px;
+}
+.tekst{
+	font-family: bold;
+	font-size: 16px;
+	color: #8d8d8d;
+	margin-bottom: 4px;
+}
+.ohs{
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+	margin-bottom: 41px;
+}
+.xmp{
+	font-size: 16px;
+}
+.contents{
+	max-width: 870px;
+	width: 100%;
+	height: 645px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.boxes{
+	max-width: 269px;
+	width: 100%;
+	height: 296px;
+	margin-bottom: 53px;
+}
+.mg{
+	max-width: 269px;
+	width: 100%;
+	height: 182px;
+	margin-bottom: 20px;
+}
+.descT{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.desc{
+	font-size: 16px;
+	color: #8d8d8d;
+}
